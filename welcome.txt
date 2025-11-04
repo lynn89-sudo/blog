@@ -1,5 +1,11 @@
-<h3>Welcome to my blog! As of writing this, I'm actually not done; this is supposed to be a test entry. However, that doesn't mean we can't make something out of this ^w^</h3>
-<h3>Making this blog has, in many ways, pushed my limits. I created my nest account so long ago - I literally can't remember; however, it was extremely difficult to figure out and I decided to just give up. 
-</h3>
-<h3>When <a href='https://rss.hackclub.com">Hack Club's RSS YSWS</a> launched, I was first introduced to the concept of RSS. For a while now, I've always been finding very convoluted ways to create static APIs and dynamic features on websites.</h3>
-<h4>More coming soon...</h4>
+<div class="blog-content">
+  <h3>Hello world!</h3>
+  <h3>This is a test blog</h3>
+  <h3>Les grandes personnes m’ont conseillé de laisser de côté les dessins de serpents boas ouverts ou fermés, et de m’intéresser plutôt à la géographie, à l’histoire, au calcul et à la grammaire. C’est ainsi que     j’ai abandonné, à l’âge de six ans, une magnifique carrière de peintre. J’avais été découragé par l’insuccès de mon dessin numéro 1 et de mon dessin numéro 2. Les grandes personnes ne comprennent jamais rien toutes seules, et c’est fatigant, pour les enfants, de toujours et toujours leur donner des explications.<br>
+ 
+J’ai donc dû choisir un autre métier et j’ai appris à piloter des avions. J’ai volé un peu partout dans le monde. Et la géographie, c’est exact, m’a beaucoup servi. Je savais reconnaître, du premier coup d’œil, la Chine de l’Arizona. C’est très utile, si l’on est égaré pendant la nuit.<br>
+ 
+J’ai ainsi eu, au cours de ma vie, des tas de contacts avec des tas de gens sérieux. J’ai beaucoup vécu chez les grandes personnes. Je les ai vues de très près. Ça n’a pas trop amélioré mon opinion.<br>
+ 
+Quand j’en rencontrais une qui me paraissait un peu lucide, je faisais l’expérience sur elle de mon dessin numéro 1 que j’ai toujours conservé. Je voulais savoir si elle était vraiment compréhensive. Mais toujours elle me répondait : « C’est un chapeau. » Alors je ne lui parlais ni de serpents boas, ni de forêts vierges, ni d’étoiles. Je me mettais à sa portée. Je lui parlais de bridge, de golf, de politique et de cravates. Et la grande personne était bien contente de connaître un homme aussi raisonnable.</h3>
+</div>
