@@ -8,7 +8,8 @@
 
 <h3>While some aspects of making this website pushed me to my limits, making this blog forced me to surpass my limits</h3><br>
 <h5 style="font-family: Space Grotesk">It took a really long time to get this site to a point where I was proud of it, from a design aspect that is. I started out with so many cool ideas; while I hope to implement them one day, I realized that for making this website I would need to make something much quicker. I was able to learn how animated SVG paths work in Svelte and how to use sticky divs (positioning)</h5><br>
-<h5 style="Space Grotesk">Before starting on this blog, I had to actually learn how Nest worked. I created my Nest account a <i>very</i> long time ago; however, I was too intimidated to actually do something with it. While setting up an RSS feed isn't the not ambitious thing you can do with a server, I'm proud of taking the time to finally learn how to setup stuff on Nest</h5>
+<h5 style="Space Grotesk">Before starting on this blog, I had to actually learn how Nest worked. I created my Nest account a <i>very</i> long time ago; however, I was too intimidated to actually do something with it. While setting up an RSS feed isn't the not ambitious thing you can do with a server, I'm proud of taking the time to finally learn how to setup stuff on Nest</h5><br><br>
+<h3>Thanks for reading!</h3>
 
 
 
