@@ -1,12 +1,12 @@
 <h2>Hi there!</h2><br>
 
-<h4 style="font-family: Space Grotesk" >Welcome to my first blog post! This post was originally intended as a development example to test the site itself; however, that doesn't mean we can't actually make a blog post ^w^</h3><br>
+<h4 style="font-family: Space Grotesk" >Welcome to my first blog post! This post was originally intended as a development example to test the site itself; however, that doesn't mean we can't actually make a blog post ^w^</h4><br>
 
 <h2>This blog, along with the entire site, is built statically on SvelteKit and hosted on Github Pages.</h2><br>
 
-<h4 style="font-family: Space Grotesk">The blog itself is run with SvelteKit and <a style="color: rgb(225, 148, 228)" href="https://hackclub.app">Hack Club Nest</a>. Nest is a virtual server that hosts the RSS feed for updating and indexing new blog posts.</h3><br>
+<h4 style="font-family: Space Grotesk">The blog itself is run with SvelteKit and <a style="color: rgb(225, 148, 228)" href="https://hackclub.app">Hack Club Nest</a>. Nest is a virtual server that hosts the RSS feed for updating and indexing new blog posts.</h4><br>
 
-<h4 style="font-family: Space Grotesk">The RSS feed contains meta information (ie. title, description, link), along with a link to the GitHub repository that contains the text document for the actual contents of the article itself.</h3><br>
+<h4 style="font-family: Space Grotesk">The RSS feed contains meta information (ie. title, description, link), along with a link to the GitHub repository that contains the text document for the actual contents of the article itself.</h4><br>
 
-<h4 style="font-family: Space Grotesk"><i>More to be added!</i></h3>
+<h4 style="font-family: Space Grotesk"><i>More to be added!</i></h4>
 
