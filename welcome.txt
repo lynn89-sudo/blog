@@ -6,6 +6,11 @@
 <h4 style="font-family: Space Grotesk">The RSS feed contains meta information (ie. title, description, link), along with a link to the GitHub repository that contains the text document for the actual contents of the article itself.</h4><br>
 <h4 style="font-family: Space Grotesk">The Github contains HTML content in text form, that the website imports and converts into raw HTML. The downside of this is that trying to keep styling consistent and readable isn't easy, and requires me to add inline styling on the text document itself where needed.</h4><br>
 
+<br>
+<img src="https://raw.githubusercontent.com/lynn89-sudo/blog/60ea1a2665f49f20b192a85b9b9ee2af42bbae98/images/liberty.jpg" alt="Image of the Statue of Liberty style="width: 70%; margin-left: 15%; margin-right: 15%"/>
+<h5>This is a test to see if images work</h5>
+<br>
+
 <h3>While some aspects of making this website pushed me to my limits, making this blog forced me to surpass my limits.</h3><br>
 <h4 style="font-family: Space Grotesk">It took a really long time to get this site to a point where I was proud of it, from a design aspect that is. I started out with so many cool ideas; while I hope to implement them one day, I realized that for making this website I would need to make something much quicker. I was able to learn how animated SVG paths work in Svelte and how to use sticky divs (positioning).</h4><br>
 <h4 style="Space Grotesk">Before starting on this blog, I had to actually learn how Nest worked. I created my Nest account a <i>very</i> long time ago; however, I was too intimidated to actually do something with it. While setting up an RSS feed isn't the most ambitious thing you can do with a server, I'm proud of taking the time to finally learn how to setup stuff on Nest.</h4><br><br>
