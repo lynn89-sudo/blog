@@ -5,7 +5,7 @@
 <br><br>
 
 <h3>Think that set of directions is specific enough? Good; now, make it even more specific</h3><br>
-<h4 style="font-family: Space Grotesk">One of the most humbling parts of running V1 was dealing with the concequences of both inconsistent directions, such as hour requirements that didn't update across the site,  and overall unclear instructions, such as the confusion I created over SvelteKit vs. Vite. Some submissions even tried to use the <code>:hover</code> pseudo-class in CSS as their stimuli, while others didn't understand that an easter egg is supposed to be hidden or chance driven.</h4><br>
+<h4 style="font-family: Space Grotesk">One of the most humbling parts of running V1 was dealing with the consequences of both inconsistent directions, such as hour requirements that didn't update across the site,  and overall unclear instructions, such as the confusion I created over SvelteKit vs. Vite. Some submissions even tried to use the <code>:hover</code> pseudo-class in CSS as their stimuli, while others didn't understand that an easter egg is supposed to be hidden or chance driven.</h4><br>
 <h4 style="font-family: Space Grotesk">I'm taking special attention to make sure that virtually every misconception from V1, if not clearly addressed already, gets addressed in the requirements. I'm also putting together a more comprehensive guide, which should additionally aide Hack Clubs (more on that in the next section).</h4><br>
 
 <h3>Promote collaboration</h3><br>
