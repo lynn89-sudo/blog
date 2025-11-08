@@ -1,0 +1,23 @@
+<h3>I first started work on <a href="https://zoo.hackclub.com">The Zoo</a> almost 9 months ago, in early March of this year.</h3><br>
+<h4 style="font-family: Space Grotesk">With the year almost coming to a close, I want to put a bow on The Zoo, once and for all. I want to take the lessons I learnt from running this for the first time, and make V2 even better! I also hope to use my takeaways from running both verions of this YSWS and transfer them into Hackband (NFC Tag Wristband YSWS) and future YSWS plans, such as Voyager.</h4><br>
+<br>
+<img src="https://raw.githubusercontent.com/lynn89-sudo/blog/refs/heads/main/images/zooBanner.png" alt="Graphic of ikea plushies" style="width: 70%; margin-left: 15%; margin-right: 15%; border-radius: 20px;" />
+<br>
+
+<h3>Think that set of directions is specific enough? Good; now, make it even more specific</h3>
+<h4 style="font-family: Space Grotesk">One of the most humbling parts of running V1 was dealing with the concequences of both inconsistent directions, such as hour requirements that didn't update across the site,  and overall unclear instructions, such as the confusion I created over SvelteKit vs. Vite. Some submissions even tried to use the <code>:hover</code> pseudo-class in CSS as their stimuli, while others didn't understand that an easter egg is supposed to be hidden or chance driven.</h4><br>
+<h4 style="font-family: Space Grotesk">I'm taking special attention to make sure that virtually every misconception from V1, if not clearly addressed already, gets addressed in the requirements. I'm also putting together a more comprehensive guide, which should additionally aide Hack Clubs (more on that in the next section).</h4><br>
+
+<h3>Promote collaboration</h3>
+<h4 style="font-family: Space Grotesk">One of my goals when thinking about V2 was greater emphasis on collaboration. I had actually discussed this, along with running The Zoo, at Daydream NYC this September. One of my co-organizers told me that the main reason they don't participate in YSWSs, compared to hackathons that is, is that it lacks the vibe, environment, and collaborative nature of a hackathon. I think this goes back to the root cause of general criticisms among members of Hack Club that are against Hack Club's greater sponsorship of YSWS programs.</h4><br>
+<br>
+<img src="https://raw.githubusercontent.com/lynn89-sudo/blog/refs/heads/main/images/daydreamWhiteboard.jpg" alt="Whiteboard from the Daydream NYC event with drawings and text" style="width: 60%; margin-left: 20%; margin-right: 20%; border-radius: 20px;" />
+<br>
+<h4 style="font-family: Space Grotesk">From the very start of The Zoo, I've been trying to address areas where normal YSWSs fail. The most important thing I worked on, in respect to this, was the currency system. That enabled greater valuation to certain projects based on effort instead of just hours. By addressing this issue surrounding collaboration, I hoped to further improve The Zoo where other programs fall short</h4><br>
+<h4 style="font-family: Space Grotesk">While not perfect, and isn't what I fully envision for future YSWSs, I've chosen to address this for V2 by adding in a branch for Hack Clubs to participate. With this branch, however, club participants can work together to get plushies for the club collectively - plushies can be used as prizes, decor, and more - and stickers for each participant.</h4><br>
+
+<h3>Stricter cutoffs</h3>
+<h4 style="font-family: Space Grotesk">During V1, as a result of unclear instructions I had to often grade generously for each project. Some projects got mynts without even completing every intended requirement. Others additionally got the max mynt payout, which should have been reserved for the best project in all.</h4><br><br>
+
+<h4 style="font-family: Space Grotesk">I hope to release The Zoo V2 by next Sunday, or by the end of Parthenon. We'll see how much I get done!</h4><br>
+<h3>See you then, and I hope you participate!</h3>
